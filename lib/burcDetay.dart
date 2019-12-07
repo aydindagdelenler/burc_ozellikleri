@@ -27,7 +27,7 @@ class BurcDetay extends StatelessWidget {
                 fit: BoxFit.cover,
               ),
               centerTitle: true,
-              title: Text(burc.burcAdi + " burcu özellikleri"),
+              title: Text(burc.burcAdi + " Burcu Özellikleri"),
             ),
           ),
           SliverToBoxAdapter(
